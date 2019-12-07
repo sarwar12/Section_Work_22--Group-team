@@ -1,0 +1,70 @@
+/* Main CSS Start */
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+body{
+	font-family: ;
+	font-weight: 400;
+}
+h1,h2,h3,h4,h5,h6{
+	margin: 0 0 15px;
+	font-weight: 700;
+}
+a:hover{
+	text-decoration: none;
+}
+/* Main CSS Stop */
+/*Group  Area Start*/
+.section-padding {
+  padding: 80px 0;
+}
+.section-heading {
+  text-align: center;
+  margin-bottom: 70px;
+}
+.section-heading h2 {
+  font-size: 40px;
+  font-weight: 700;
+}
+.single-team-item img {
+	border: 3px solid #e8e8e8;
+}
+.team-social-icons {
+	background: #5ba32d;
+	text-align: center;
+	padding: 5px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: -25px;
+	position: relative;
+	z-index: 2;
+}
+.team-social-icons a {
+	display: inline-block;
+	border: 1px solid aliceblue;
+	color: #fff;
+	height: 30px;
+	width: 30px;
+	line-height: 30px;
+	text-align: center;
+	border-radius: 5px;
+	margin: 5px;
+} 
+.single-team-item h4 {
+  text-align: center;
+  font-weight: 700;
+  margin-top: 15px;
+  font-size: 20px;
+}
+.single-team-item h4 span {
+  display: block;
+  color: #5ba939;
+  font-weight: 300;
+  font-size: 80%;
+}
+/*Group  Area Stop*/
